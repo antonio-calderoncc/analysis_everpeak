@@ -33,7 +33,7 @@ El análisis se basa en tres conjuntos de datos con información registrada hast
 
 Haz clic en el siguiente botón para ejecutar el análisis de forma interactiva:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/antonio-calderoncc/analysis_everpeak)
 
 O:
 
